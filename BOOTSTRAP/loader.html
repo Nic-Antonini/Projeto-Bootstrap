@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>carregando...</title>
+
+    <style>
+        html, body{
+            height: 100%;
+        }
+        body{
+            display:flex;
+            background-color: rgb(255, 204, 0);
+            justify-content: center;
+            align-items: center;
+        }
+
+
+        .spinner {
+            --s: 9px;
+            width: 75px;
+            height: 75px;
+            background: #e73535;
+            border-radius: 20%;
+            animation: spinner-ehcge9 1.5s infinite linear;
+            clip-path: polygon(0 0,calc(50% - var(--s)) 0,50% var(--s),calc(50% + var(--s)) 0,100% 0,100% calc(50% - var(--s)),calc(100% - var(--s)) 50%,100% calc(50% + var(--s)),100% 100%,calc(50% + var(--s)) 100%, 50% calc(100% - var(--s)),calc(50% - var(--s)) 100%,0 100%,0 calc(50% + var(--s)), var(--s) 50%, 0 calc(50% - var(--s)));
+        }
+
+        @keyframes spinner-ehcge9 {
+        100% {
+            transform: rotate(1turn);
+        }
+        }
+    </style>
+</head>
+<body>
+    <div class="spinner"></div>
+</body>
+</html>
