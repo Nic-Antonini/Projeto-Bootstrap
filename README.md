@@ -12,10 +12,14 @@ Além disso, o Bootstrap oferece um conjunto de estilos e componentes consistent
 Para usar o Bootstrap em um projeto, basta incluir os arquivos CSS e JavaScript correspondentes em suas páginas HTML e usar as classes e componentes fornecidos pela estrutura para estilizar e interagir com os elementos da página.
 
 No geral, o Bootstrap é uma ferramenta poderosa e amplamente adotada para o desenvolvimento web front-end, permitindo que os desenvolvedores economizem tempo e esforço na criação de interfaces atraentes e responsivas.
+
 ## SOBRE O SITE
 O tema escolhido por mim foi lanchonete, criando um design inspirado ao site do MCDonalds. Importante ressaltar que todas as informações e dados de contato da "hamburgueria" são totalmente fictícios!
+
 ### SOBRE MIM 
 Olá, Meu nome é Nicolas e estou no 2° ano do ensino médio integrado com curso técnico de Desenvolvimento de Sistemas, pretendo seguir na área de programação focando no front-end e cursar Ciências da computação.
+
 ### CONTATO
 Email: nicki.pablo123@gmail.com
+
 Instagram: @nic.antonini
