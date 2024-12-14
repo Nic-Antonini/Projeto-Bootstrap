@@ -18,8 +18,3 @@ O tema escolhido por mim foi lanchonete, criando um design inspirado ao site do 
 
 ### SOBRE MIM 
 Olá, Meu nome é Nicolas e estou no 2° ano do ensino médio integrado com curso técnico de Desenvolvimento de Sistemas, pretendo seguir na área de programação focando no front-end e cursar Ciências da computação.
-
-### CONTATO
-Email: nicki.pablo123@gmail.com
-
-Instagram: @nic.antonini
